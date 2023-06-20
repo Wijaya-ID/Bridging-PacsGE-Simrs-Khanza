@@ -1,0 +1,6 @@
+    <entry key="AKTIFJII">yes</entry>
+    <entry key="IDJII">8</entry>
+    <entry key="URLJII">http://192.168.1.1/api</entry>
+    <entry key="UNJII">ujicoba</entry>
+    <entry key="PWJII">lbfJjb4xCRu1zmWr7LK8BewCQoYgDMdy</entry>
+    <entry key="URLHASILJII">192.168.2.1/ZFP</entry>
